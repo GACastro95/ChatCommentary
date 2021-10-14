@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatCommentaryApp", "ChatCommentary\ChatCommentaryApp.csproj", "{98DF68AF-DAF8-4333-B3F9-B20E4714BB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DF68AF-DAF8-4333-B3F9-B20E4714BB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DF68AF-DAF8-4333-B3F9-B20E4714BB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DF68AF-DAF8-4333-B3F9-B20E4714BB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DF68AF-DAF8-4333-B3F9-B20E4714BB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A8CBE19-0EE1-4C94-8C5E-983D2AAF3FE1}
+	EndGlobalSection
+EndGlobal
